@@ -22,7 +22,7 @@ Second Marker: Carole Twining
 
 
 *****************************
-*       Introduction        *
+*       Introduction        
 *****************************
 
 This image mosaic application is to use plenty of library images to combine a master image and the result image shows a mosaic effect. 
@@ -33,7 +33,7 @@ The steps and key points of the process and algorithm are shown in a pdf file. T
 
 
 *****************************
-*      Equal-size block     *
+*      Equal-size block     
 *****************************
 
 The souce code is mainly in MainForm.h.
@@ -52,7 +52,7 @@ The result image will appear at the right of the window and be written to folder
 
 
 *****************************
-*     Unequal-size block    *
+*     Unequal-size block    
 *****************************
 
 The source code is mainly in imagemosaicunequal.cpp.
