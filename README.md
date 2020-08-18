@@ -5,16 +5,19 @@ Equal-size / Unequal-size block image mosaics
 *       Note        
 *****************************
 
-TWO SOURCE FILES, ONE IS FOR EQUAL-SIZE BLOCK IMAGE MOSAICS, THE OTHER ONE IS FOR UNEQUAL-SIZE BLOCK IMAGE MOSAICS.
+Two source files, one is for equal-size block image mosaics, the other one is for unequal-size block image mosaics.
 
-THE ORIGINAL SRC FILES ARE PARTS OF A "WINDOWS FORM APP" AND SOME PARTS OF CODE ARE REMOVED.
+The original src files are parts of a "windows form app" and some parts of code are removed.
 
-THUS, THE SRC FULES PROB CANNOT BEEN COMPILED SUCCESSFULLY, CODES ARE JUST FOR SHOW THE STEPS.
+Thus, the src files prob cannot been compiled successfully, codes are just for showing the steps.
 
+A report is for all details and example output images/
+
+*****************************
+*       Author      
+*****************************
 
 Author: Qingshuai Feng
-
-ID: 9631679
 
 Supervisor: Jim Miles
 
